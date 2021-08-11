@@ -1,3 +1,3 @@
 # SoftUni-Fundamentals-Module
 Contains exercises solutions during Java Fundamentals Module
--> Arrays
+-> [SoftUni-Fundamentals-Module][Arrays](Arrays-exercises)
