@@ -2,3 +2,5 @@
 Contains exercises solutions during Java Fundamentals Module
 
 -> [Arrays](Arrays)
+
+-> [Methods](Methods)
