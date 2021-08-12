@@ -1,5 +1,5 @@
 # SoftUni-Fundamentals-Module
-Contains exercises solutions during Java Fundamentals Module
+Contains exercise solutions, during Java Fundamentals Module in SoftUni education program.
 
 -> [Arrays](Arrays)
 
