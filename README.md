@@ -6,3 +6,5 @@ Contains exercise solutions, during Java Fundamentals Module in SoftUni educatio
 -> [Methods](Methods)
 
 -> [Lists](Lists)
+
+-> [Associative-Arrays](Associative-Arrays)
