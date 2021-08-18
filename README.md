@@ -10,3 +10,5 @@ Contains exercise solutions, during Java Fundamentals Module in SoftUni educatio
 -> [Associative-Arrays](Associative-Arrays)
 
 -> [Text-Processing](Text-Processing)
+
+-> [Regular-Expressions](Regular-Expressions)
