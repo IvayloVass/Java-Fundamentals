@@ -7,8 +7,8 @@ Contains exercise solutions, during Java Fundamentals Module in SoftUni educatio
 
 -> [Lists](Lists)
 
--> [Associative-Arrays](Associative-Arrays)
+-> [Associative Arrays](Associative-Arrays)
 
--> [Text-Processing](Text-Processing)
+-> [Text Processing](Text-Processing)
 
--> [Regular-Expressions](Regular-Expressions)
+-> [Regular Expressions](Regular-Expressions)
